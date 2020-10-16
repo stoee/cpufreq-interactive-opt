@@ -1,5 +1,5 @@
 # cpufreq-interactive-opt
-
+<https://gitee.com/stoee/cpufreq-interactive-opt>
 optimize the interactive parameters of cpufreq driver
 
 ## 这是什么(What is it)
